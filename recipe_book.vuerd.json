@@ -362,7 +362,7 @@
             "id": "3e46c257-5520-aec4-3131-581f8c938657"
           },
           {
-            "name": "id",
+            "name": "measurement_id",
             "comment": "",
             "dataType": "INTEGER",
             "default": "",
@@ -377,7 +377,7 @@
               "pk": false,
               "fk": true,
               "pfk": false,
-              "widthName": 60,
+              "widthName": 99,
               "widthComment": 60,
               "widthDataType": 60,
               "widthDefault": 60
@@ -389,7 +389,7 @@
           "active": false,
           "left": 42,
           "top": 383,
-          "zIndex": 192,
+          "zIndex": 207,
           "widthName": 108,
           "widthComment": 60
         },
@@ -526,7 +526,7 @@
           "columnIds": [
             "8c0a9b07-c702-9fe2-50e8-98665228c953"
           ],
-          "x": 223.5,
+          "x": 235,
           "y": 383,
           "direction": "top"
         },
@@ -549,7 +549,7 @@
           "columnIds": [
             "3e46c257-5520-aec4-3131-581f8c938657"
           ],
-          "x": 405,
+          "x": 428,
           "y": 420.75,
           "direction": "right"
         },
@@ -572,7 +572,7 @@
           "columnIds": [
             "9110be0a-2d0d-a21c-0e56-5db588e28f32"
           ],
-          "x": 405,
+          "x": 428,
           "y": 496.25,
           "direction": "right"
         },
